@@ -1,0 +1,6 @@
+name: OneOni
+version: '${version}'
+main: io.github.oneservermc.oneoni.OneOni
+api-version: 1.17
+authors: [ Massa ]
+website: https://github.com/OneServerMC/OneOni
